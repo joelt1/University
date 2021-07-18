@@ -1,3 +1,1 @@
-COMP7505 - Algorithms & Data Structures.
-COMP7702 - Artificial Intelligence.
-MATH7049 - Computation in Financial Mathematics.
+Only displaying the weeks in which an assessable demo was conducted during the practical session.
