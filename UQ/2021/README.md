@@ -1,3 +1,3 @@
-COMP7505 - Algorithms & Data Structures.
-COMP7702 - Artificial Intelligence.
-MATH7049 - Computation in Financial Mathematics.
+# COMP7703 - Machine Learning.
+# MATH7091 - Financial Calculus.
+# STAT7301 - Mathematical Statistics.
