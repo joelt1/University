@@ -1,0 +1,1 @@
+Assignment 2 - continuous motion planning in Canadarm2 using Probabilistic Roadmap (PRM).

@@ -1,0 +1,6 @@
+This is job 'COSC7502_project_serial' (id: 11301263) running on the following nodes: 
+smp-9-10
+Running with OMP_NUM_THREADS = 1
+Running with SLURM_TASKS_PER_NODE = 1
+
+Project scaling tests successfully finished!

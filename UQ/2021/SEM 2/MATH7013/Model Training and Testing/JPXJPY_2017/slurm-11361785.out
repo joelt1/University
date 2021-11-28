@@ -1,0 +1,12 @@
+This is job 'MATH7013_project' (id: 11361785) running on the following nodes: 
+smp-8-2
+Running with OMP_NUM_THREADS = 1
+Running with SLURM_TASKS_PER_NODE = 1
+
+Running fdrnn.py on JPXJPY 2017 dataset...
+
+real	404m57.560s
+user	400m42.020s
+sys	3m13.382s
+
+FDRNN training and testing on JPXJPY 2017 dataset successfully finished!

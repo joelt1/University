@@ -1,0 +1,12 @@
+This is job 'MATH7013_project' (id: 11361784) running on the following nodes: 
+smp-8-2
+Running with OMP_NUM_THREADS = 1
+Running with SLURM_TASKS_PER_NODE = 1
+
+Running fdrnn.py on SPXUSD 2017 dataset...
+
+real	399m2.797s
+user	395m8.084s
+sys	2m52.890s
+
+FDRNN training and testing on SPXUSD 2017 dataset successfully finished!

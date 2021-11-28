@@ -1,0 +1,9 @@
+Running with OMP_NUM_THREADS =  1
+Running with MKL_NUM_THREADS =  1
+This is job 'COSC7502_a2_cuda' (id: 11076218) running on the following nodes: 
+smp-8-1
+Running with OMP_NUM_THREADS = 1
+Running with SLURM_TASKS_PER_NODE = 1
+
+CUDA implementation test finished!
+73 minutes and 8 seconds elapsed.

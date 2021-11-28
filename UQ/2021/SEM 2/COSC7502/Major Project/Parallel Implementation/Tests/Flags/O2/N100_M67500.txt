@@ -1,0 +1,140 @@
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.36853266,		CI = [5.31233883, 5.42472649],	Radius = 0.05619406
+Total runtime			= 3739
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.39705849,		CI = [5.34077740, 5.45333958],	Radius = 0.05628112
+Total runtime			= 3559
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.32633448,		CI = [5.27065706, 5.38201189],	Radius = 0.05567757
+Total runtime			= 4048
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.31344271,		CI = [5.25754690, 5.36933851],	Radius = 0.05589580
+Total runtime			= 3932
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.39050436,		CI = [5.33446264, 5.44654608],	Radius = 0.05604189
+Total runtime			= 3948
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.39734268,		CI = [5.34098959, 5.45369577],	Radius = 0.05635307
+Total runtime			= 3629
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.36020899,		CI = [5.30442476, 5.41599321],	Radius = 0.05578437
+Total runtime			= 3744
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.32567263,		CI = [5.27005768, 5.38128757],	Radius = 0.05561486
+Total runtime			= 3876
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.33747625,		CI = [5.28176451, 5.39318800],	Radius = 0.05571180
+Total runtime			= 3830
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.32739830,		CI = [5.27153826, 5.38325834],	Radius = 0.05586002
+Total runtime			= 3622
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.31867361,		CI = [5.26336575, 5.37398148],	Radius = 0.05530775
+Total runtime			= 3935
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.32758427,		CI = [5.27186680, 5.38330173],	Radius = 0.05571767
+Total runtime			= 3667
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.37249136,		CI = [5.31657124, 5.42841148],	Radius = 0.05592035
+Total runtime			= 3922
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.31704092,		CI = [5.26127863, 5.37280321],	Radius = 0.05576228
+Total runtime			= 3734
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.34353924,		CI = [5.28762817, 5.39945030],	Radius = 0.05591109
+Total runtime			= 4030
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.30247545,		CI = [5.24697065, 5.35798025],	Radius = 0.05550459
+Total runtime			= 3730
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.31901741,		CI = [5.26309729, 5.37493753],	Radius = 0.05592002
+Total runtime			= 3761
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.30599689,		CI = [5.25024462, 5.36174917],	Radius = 0.05575211
+Total runtime			= 3835
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.30364275,		CI = [5.24809408, 5.35919142],	Radius = 0.05554861
+Total runtime			= 3849
+
+HPC in MC Simulation for European Basket Options Pricing - Parallel Implementation
+Starting program...
+
+D = 8, N = 100, M = 67500
+MC + Euler result		= 5.27719212,		CI = [5.22178268, 5.33260155],	Radius = 0.05540965
+Total runtime			= 3813
+

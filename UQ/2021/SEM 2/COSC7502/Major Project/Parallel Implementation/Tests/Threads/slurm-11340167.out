@@ -1,0 +1,6 @@
+This is job 'COSC7502_project_parallel' (id: 11340167) running on the following nodes: 
+smp-8-2
+Running with OMP_NUM_THREADS = 1
+Running with SLURM_TASKS_PER_NODE = 1
+
+Project GPU threads tests successfully finished!
