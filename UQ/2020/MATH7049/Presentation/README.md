@@ -1,1 +1,0 @@
-Presentation - introduction to the fully implicit finite difference scheme, consistency and stability via Fourier analysis, convergence and an application to pricing an option on an underlying that has continuous dividends.

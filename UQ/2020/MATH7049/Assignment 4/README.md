@@ -1,1 +1,0 @@
-Assignment 4 - questions 1 and 2 on ordinary Monte Carlo (MC), question 3 on MC using a control variate, question 4 on MC using importance sampling.

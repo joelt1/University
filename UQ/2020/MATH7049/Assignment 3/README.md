@@ -1,1 +1,0 @@
-Assignment 3 - question 1 on stability of the Crank-Nicolson (C-N) finite difference scheme via Fourier analysis, question 2 on comparing fully implicit and C-N FD schemes, question 3 on ordinary Monte Carlo.
